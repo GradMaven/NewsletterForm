@@ -115,7 +115,7 @@ h1{
         width: 100%;
 }
     .left img {
-        content: url("./assets/images/illustration-sign-up-mobile.svg")
+        content: url("./assets/images/illustration-sign-up-mobile.svg");
     }
     .form {
     width: 86%
